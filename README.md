@@ -22,12 +22,10 @@ New improved UI in JavaFX
  File overwrite protection and confirmation for overwriting
 
  New Notification system to let you know the result and details of stack trace in event of
+  failure
 
-failure
-
- Time stamping in the excel file just above the screenshot to let you know date and time of
-
-screen capture
+ Time stamping in the excel file just above the screenshot to let you know date and time of 
+  screen capture
 
  Timestamp format changed from GMT to IST
 
