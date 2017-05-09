@@ -1,7 +1,7 @@
 # Screenshooter-R2
 Screenshooter is very simple to use, screenshot taking utility
 
-click on Screenshooter2.zip to download files
+click on Screenshooter2.zip to download program
 
 Change Log:
 New improved UI in JavaFX
